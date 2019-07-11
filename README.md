@@ -2,8 +2,8 @@
 
 ## Requirements
 
-* React-Native install
-* A bash terminal (Mac-Os || Linux have already it integrated by default)
+* React-Native installed
+* A bash terminal (Mac-Os || Linux already have it integrated by default)
 * For Android --> Make sure android studio and an emulator already exist
 * For IOS --> Make sure Xcode is install 
 
